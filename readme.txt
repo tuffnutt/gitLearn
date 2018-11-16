@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 dadaddaa
 no content
+=======
+
+rftgdsfgd df
+>>>>>>> d3daa9632a50955ea7b2d27bee55b8ff12db2340
 read this
 okay
 
@@ -8,7 +13,7 @@ kjh
 
 
 no conte
-kjhkjhjkl
+dfsg fdg dfgdf
 
 
 no content11111111
